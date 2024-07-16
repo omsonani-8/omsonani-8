@@ -61,7 +61,7 @@ cart.
 - **Bachelor of Engineering - BE, Computer Engineering**
  - Government Engineering College (GEC) Bhavnagar
  - Sep 2021 - Jun 2025 (Expected Graduation)
- - Grade: 8.18
+ - CGPA: 8.33
 
 ## 🌱 Activities and Societies
 
