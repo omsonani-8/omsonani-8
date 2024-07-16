@@ -12,6 +12,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omsonani-8&theme=radical)
 
+<!--
 ## 👥 GitHub Followers
 
 ![GitHub Followers](https://img.shields.io/github/followers/omsonani-8?label=Follow&style=social)
@@ -19,6 +20,7 @@
 ## ⭐ GitHub Stars
 
 ![GitHub Stars](https://img.shields.io/github/stars/omsonani-8?affiliations=OWNER&style=social)
+-->
 
 ## 🚀 About Me
 
