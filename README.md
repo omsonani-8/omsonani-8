@@ -1,79 +1,134 @@
-# Hello, I'm Om Sonani 👋
+# 👋 Hello, I'm Om Sonani
 
-## 📈 GitHub Activity
+## 🚀 Full-Stack Developer | Backend-Focused Engineer
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=omsonani-8&show_icons=true&theme=radical)
+💻 Full-stack developer with **1+ year of real-world experience** building scalable web applications.
+⚙️ Strong focus on **backend systems, API design, and performance optimization**.
+📈 Experienced in solving real production issues like **race conditions, scheduling, and rate limiting**.
+🧠 Passionate about clean code, system design, and continuous learning.
 
-## 🌐 Top Languages
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omsonani-8&layout=compact&theme=radical)
+## 📊 GitHub Stats
 
-## 🔥 GitHub Streak
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omsonani-8\&show_icons=true\&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omsonani-8&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omsonani-8\&layout=compact\&theme=radical)
 
-<!--
-## 👥 GitHub Followers
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omsonani-8\&theme=radical)
 
-![GitHub Followers](https://img.shields.io/github/followers/omsonani-8?label=Follow&style=social)
+---
 
-## ⭐ GitHub Stars
+## 🛠️ Tech Stack
 
-![GitHub Stars](https://img.shields.io/github/stars/omsonani-8?affiliations=OWNER&style=social)
--->
+### 💻 Languages
 
-## 🚀 About Me
+JavaScript, TypeScript, Java, C
 
-👨‍💻 I'm Om Sonani, a 3rd-year Computer Engineering student at Government Engineering College (GEC) Bhavnagar. 🎓 I'm passionate about web development, technology, and problem-solving. My journey in the tech industry has been filled with learning, growth, and the opportunity to apply my skills in real-world projects.
+### 🌐 Frontend
 
-## 💻 Skills
+React.js, Next.js, Redux, TanStack Query, Tailwind CSS, jQuery
 
-- **Web Development**: Proficient in HTML, CSS, JavaScript, and various JavaScript libraries. 🌐
-- **Programming Languages**: Experienced in Java, C, and C++. 💻
-- **Database Management**: Knowledgeable in MongoDB and SQL. 📊
-- **Computer Networking**: Understanding of network protocols and security. 🔒
+### ⚙️ Backend
 
-## 🎯 Projects
+Node.js, Express.js, REST APIs
 
-### 1. **Resume Builder**
+### 🗄️ Databases
 
-**Resume Builder** is a dynamic web application designed to simplify the process of creating professional resumes. Built using the MERN stack (MongoDB, Express.js, React, and Node.js), this project aims to provide users with a user-friendly interface to craft their resumes. 📝
+PostgreSQL, MongoDB, MySQL
 
-- **Technologies Used**: MongoDB for database management, Express.js for server-side operations, React for building the user interface, and Node.js for the backend. 🛠️
-- **Problem Solved**: The application addresses the challenge of creating a resume that is both visually appealing and informative, catering to the needs of job seekers who want to present their skills and experiences in the best possible light. 🎯
+### 🧠 ORM
 
-### 2. **Food Fire**
+Sequelize
 
-**Food Fire** •The "Food Fire" app is a dynamic platform designed to streamline the food ordering app.it simple for users to choose their favorite restaurants, see what's on the menu, and add items to their
-cart.
+### ⚡ Caching & Queues
 
-### 3. **Weather**
+Redis, BullMQ
 
-**Weather** is a Web application that provides real-time weather updates and forecasts. Developed using JavaScript And React, this project offers users a convenient way to stay informed about the weather. 🌦️
+### ☁️ Cloud & Tools
 
-- **Technologies Used**: Html, Tailwind CSS and Js OpenWeatherMap API for weather data. 📱
-- **Problem Solved**: Addresses the need for a quick and easy way to access weather information, making it easier for users to plan their day based on the weather. ☀️
+AWS (S3, SQS), Docker, Git, VS Code
 
+---
 
+## 💼 Experience
 
-## 📚 Education
+### 🏢 Junior Software Developer — eSparkBiz Technologies
 
-- **Bachelor of Engineering - BE, Computer Engineering**
- - Government Engineering College (GEC) Bhavnagar
- - Sep 2021 - Jun 2025 (Expected Graduation)
- - CGPA: 8.33
+📅 Jan 2025 – Present
 
-## 🌱 Activities and Societies
+* Built and maintained **scalable backend services** using Node.js & Express
+* Solved real-world issues like:
 
-- **Core Member, GDSC GEC Bhavnagar Event Team**: Organized technology-focused events to promote innovation and learning. 📅
+  * Race conditions
+  * Scheduling problems
+  * API rate limiting
+* Improved performance using **Redis caching**
+* Designed **database schemas using PostgreSQL & Sequelize**
+* Worked on full-stack features using **React + TypeScript**
 
-## 📫 How to Reach Me
+---
 
-Feel free to reach out if you're interested in connecting, sharing insights, or if you have any advice for someone just starting out in the tech field. 💬
+## 🚀 Projects
 
-- **LinkedIn**: [https://www.linkedin.com/in/om-sonani-b31667273/](https://www.linkedin.com/in/om-sonani-b31667273/)
-- **Email**: omsonani1928@gmail.como
+### 🔹 Research Data Collection Platform
 
+* Built backend services for survey workflows
+* Optimized APIs and reduced unnecessary DB calls
+* Implemented **Redis caching & request chunking (AWS S3)**
+* Improved system stability by fixing production issues
 
+---
 
+### 🔹 Real Estate Management Platform
 
+* Developed REST APIs using **Node.js, Express, TypeScript**
+* Designed **polymorphic media system**
+* Built **Todo module for agents**
+* Implemented scalable DB structure using PostgreSQL
+
+---
+
+### 🔹 Resume Builder (MERN)
+
+* Dynamic resume generation platform
+* Clean UI + structured data handling
+
+---
+
+### 🔹 Food Fire 🍔
+
+* Food ordering app with cart and menu system
+
+---
+
+### 🔹 Weather App 🌦️
+
+* Real-time weather using API integration
+
+---
+
+## 🧠 What Makes Me Different
+
+✔️ Real production experience (not just projects)
+✔️ Strong backend problem-solving skills
+✔️ Performance optimization mindset
+✔️ Experience with system-level issues (rate limiting, caching)
+✔️ Fast learner with AI-assisted development tools
+
+---
+
+## 📫 Connect With Me
+
+* 🔗 LinkedIn: https://www.linkedin.com/in/om-sonani-b31667273/
+* 📧 Email: [omsonani1928@gmail.com](mailto:omsonani1928@gmail.com)
+* 💻 GitHub: https://github.com/omsonani-8
+
+---
+
+## 📈 Current Focus
+
+* System Design
+* Backend Scalability
+* Advanced Node.js & Architecture
+* Queue Systems & Microservices
